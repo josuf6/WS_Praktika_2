@@ -55,10 +55,6 @@ def eskaera1():
         print("     " + x + ": " + erantzuna.headers[x])
 
 
-
-    # print(erantzuna.content) HTML KODEA LORTZEKO
-
-
 def eskaera2():
     # Eskaera egin
     metodoa = 'GET'
